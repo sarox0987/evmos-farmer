@@ -1,4 +1,4 @@
-This script has written for airchain [switchyard testnet campaign]()
+This script has written for airchain [switchyard testnet campaign](https://paragraph.xyz/@sarox.eth/airchain-rollup)
 
 ## Install git
 
@@ -29,7 +29,8 @@ cd evmos-farmer
 ```
 
 ## Run the script
-``` 
+```
+go mod tidy
 go run main.go
 ```
 
