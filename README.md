@@ -1,4 +1,4 @@
-This script has written for airchain [switchyard testnet campaign](https://paragraph.xyz/@sarox.eth/airchain-rollup)
+This script has written for airchain [switchyard testnet campaign](https://paragraph.xyz/@sarox.eth/airchain-rollup?referrer=0xbefEf0FE13B9bD398A88DAB74CCd62099C51333C)
 
 ## Install git
 
